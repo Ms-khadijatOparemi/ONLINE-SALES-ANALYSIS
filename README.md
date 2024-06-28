@@ -24,6 +24,9 @@ The dataset was obtained from the Data Entry officer of the supermarket. The dat
 
 
 
+
+!Data structure.PNG [Data structure](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/3f2a453d-633a-450c-b683-4bd4a2117b52)
+
 # KPIs
 The Key Performance Indicators include: 
 * Total Revenue
