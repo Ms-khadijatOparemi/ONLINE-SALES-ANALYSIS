@@ -44,7 +44,7 @@ The analysis of the dataset was done on Microsoft Excel using PivotTable.
 * A new column was created: Year, derived from  the OrderDate column.
   ![Year](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/64861c69-26fc-4ade-a350-4c18b3b9791a)
 
-* To also find the average delivery days, a new column was created by subtracting the OrderDate from the DeliveryDate. On the PivotTable, we summarized the value field by 'Average' to get the average days of delivery.
+* Tofind the average delivery days, a new column was created by subtracting the OrderDate from the DeliveryDate. On the PivotTable, we summarized the value field by 'Average' to get the average days of delivery.
 
   ![Delivery Day](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/0e6968c4-52a7-40a2-b275-018576d41d61)
   
@@ -55,7 +55,7 @@ The analysis of the dataset was done on Microsoft Excel using PivotTable.
   ![Total sales](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/ce309bb8-57ef-431f-8e59-d6b06fb32bc7)
 
 * A new table ‘Age Group’ was created in a new sheet
-* ![Age_Group Table](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/5e7701b3-622c-42b6-939c-f1c90a5223ef)
+ ![Age_Group Table](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/5e7701b3-622c-42b6-939c-f1c90a5223ef)
 
 * To get the corresponding age group the Vlookup function was used.
 ![Age-Group](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/19e292e9-4444-4f48-b4b3-8e8df44fe08d)
@@ -92,7 +92,7 @@ The analysis of the dataset was done on Microsoft Excel using PivotTable.
 7. Mobile phones had the highest sales under the phones and tablets category.
 8. Digital Cameras had the largest sales by revenue with a sum of 25,930,720 CHF which represents 24.3% of the total revenue.
 9. Zone 3 had the highest sales by revenue.
-10. The express delivery channel is the least patronized; this could be a result of the cost of delivery.
+10. The express delivery channel is the least patronized because it is the most expensive of the delivery channels.
 
 
 # Recommendation
