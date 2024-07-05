@@ -22,7 +22,7 @@ Perform analysis on the following:
 # Data Structure
 The dataset was obtained from the Data Entry officer of the supermarket. The dataset contains 113,000 rows and 18 columns of records of sales with fields like Order date, Order ID, Delivery date, Customer age, Gender, Delivery type, Product category, etc.
 
- ![Data structure Image](/Screenshots/Data%20structure.PNG)
+ ![Data structure Image](/https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Data%20structure.PNG "Raw Dataset))
 *Picture of raw dataset
 
 # KPIs
