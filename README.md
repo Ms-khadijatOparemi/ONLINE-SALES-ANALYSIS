@@ -33,7 +33,7 @@ The Key Performance Indicators include:
 * Total Number of Customers and 
 * The Average Delivery Days of products
   
-![KPI 1](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/89d74aa2-9fc8-4327-832f-1f6dfbe8aa75)
+![KPI 1](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/89d74aa2-9fc8-4327-832f-1f6dfbe8aa75))
 
 # Tool: Microsoft Excel
 The analysis of the dataset was done on Microsoft Excel using PivotTable.
@@ -62,24 +62,44 @@ The analysis of the dataset was done on Microsoft Excel using PivotTable.
 
 
 # Analysis
-1. KPIs
-![KPI 1](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/22b2bf8d-53ef-48f2-93ca-d050253df25d)
-
-2. Sales Trend
-![Sales Trend](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/60142a66-d467-4742-bf28-e178ad9255a7)
-
-3. Revenue Contribution by Category
-
-![Revenue contribution by category](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/4f7f2632-84d7-4191-bf23-9a01bbb5d9ac)
-
-4. Sales by Gender
+ * KPIs
+   ![KPI 1](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/89d74aa2-9fc8-4327-832f-1f6dfbe8aa75))
    
-![Sales by gender](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/c1ac4b9f-3bfc-4beb-92c3-bea86d37883b)
+* Total revenue by product category
+     ![Total revenue by product category](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Rvenue%20by%20product%20category.JPG))
+* Revenue by Year
+ ![Revenue by Year](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Revenue%20by%20Year.JPG))
 
-6. Delivery Trend
-![Delivery Trend Image](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/1239330d-3495-4af3-bdb3-821d3e8cd4e5)
+* Customers' gender by revenue across the years
+  ![Customers' gender by revenue across the years](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Revenue%20by%20Gender%20by%20Year.JPG))
+  
+* Customers' gender by percentage
+  ![Customers' gender by percentage](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Gender%20by%20Percentage.JPG))
+  
+* Which of the delivery channels have the biggest revenue by percentage?
+  ![Revenue by Delivery Channel](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Revenue%20by%20Delivery%20Channel.JPG))
+  
+* Percentage of revenue by gender across age groups
+  ![%Revenue by Gender across Age groups](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/%25Revenue%20by%20Gender%20across%20Age%20groups.JPG))
+  
+* Top 5 Product subcategories by revenue
+ ![Top 5 Product subcategories by revenue](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Top%205%20Sub%20Category.JPG))
+  
+* Product category by Total revenue, percentage of total revenue, total orders and percentage of total orders
+  ![Revenue & Orders](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Rvenue_Order.JPG))
+  
+* Reasons why customers return some of the items purchased
+  ![Reasons for Returned Items](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Retuned%20Items.JPG))
+  
+* Product category by Total revenue across Zones
+  ![Revenue across Zones](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Revenue%20by%20zone.JPG))
+  
+![KPI 1](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/89d74aa2-9fc8-4327-832f-1f6dfbe8aa75))
 
 # Dashboard
+![Sales Dashboard I](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Sales%20Dashboard%20I.JPG))
+
+![Sales Dashboard II](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Sales%20Dashboard%20II.JPG))
 
 
 # Insights
