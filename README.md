@@ -1,6 +1,6 @@
 # Excel_Project- BLACK STARS ONLINE SALES ANALYSIS
 
-https://drive.google.com/drive/u/0/folders/1OOyYEvqQ8i8BpSdPGQQjMEKvfrnmx6_t
+
 
 # Project Brief
 A supermarket (An Online store) that sells all varieties of items in different categories, from Fashion to Home and Office supplies. They have the dataset of their shopping over 5 years, from 2015 to 2020. The CEO wants to see how the supermarket is fairing by certain Key Performance Indicators. The manager has been assigned to identify the key areas within the business that need clarification and get them sorted out as soon as possible.
