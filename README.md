@@ -6,7 +6,7 @@
 A supermarket (An Online store) that sells all varieties of items in different categories, from Fashion to Home and Office supplies. They have the dataset of their shopping over 5 years, from 2015 to 2020. The CEO wants to see how the supermarket is fairing by certain Key Performance Indicators. The manager has been assigned to identify the key areas within the business that need clarification and get them sorted out as soon as possible.
 Our work as a Data Analyst is to analyze the sales dataset and develop results and visualization.
 
-# Tasks
+## Tasks
 Perform analysis on the following:
 * Total revenue by product category
 * Revenue by Year
@@ -19,13 +19,13 @@ Perform analysis on the following:
 * Reasons why customers return some of the items purchased
 * Product category by Total revenue across
 
-# Data Structure
+## Data Structure
 The dataset was obtained from the Data Entry officer of the supermarket. The dataset contains 113,000 rows and 18 columns of records of sales with fields like Order date, Order ID, Delivery date, Customer age, Gender, Delivery type, Product category, etc.
 
  ![Data structure Image](/https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Data%20structure.PNG "Raw Dataset))
 *Picture of raw dataset
 
-# KPIs
+## KPIs
 The Key Performance Indicators include: 
 * Total Revenue
 * Total Orders 
@@ -33,9 +33,9 @@ The Key Performance Indicators include:
 * Total Number of Customers and 
 * The Average Delivery Days of products
   
-![KPI 1](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/89d74aa2-9fc8-4327-832f-1f6dfbe8aa75))
+!
 
-# Tool: Microsoft Excel
+## Tool: Microsoft Excel
 The analysis of the dataset was done on Microsoft Excel using PivotTable.
 
 # Data preparation and cleaning
@@ -94,7 +94,6 @@ The analysis of the dataset was done on Microsoft Excel using PivotTable.
 * Product category by Total revenue across Zones
   ![Revenue across Zones](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Revenue%20by%20zone.JPG))
   
-![KPI 1](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/assets/133680175/89d74aa2-9fc8-4327-832f-1f6dfbe8aa75))
 
 # Dashboard
 ![Sales Dashboard I](https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Sales%20Dashboard%20I.JPG))
