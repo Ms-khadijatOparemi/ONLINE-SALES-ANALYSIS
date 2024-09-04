@@ -7,19 +7,33 @@ A supermarket (An Online store) that sells all varieties of items in different c
 
 ## Tasks
 Perform analysis on the following:
+
 * Total revenue by product category
+
 * Revenue by Year
-* Customers' gender by revenue across the years
-* Customers' gender by percentage
-* Which of the delivery channels have the biggest revenue by percentage?
-* Percentage of revenue by gender across age groups
+
 * Top 5 Product subcategories by revenue
+
 * Product category by Total revenue, percentage of total revenue, total orders and percentage of total orders
-* Reasons why customers return some of the items purchased
-* Product category by Total revenue across
+
+* Customers' gender by revenue across the years
+
+* Customers' gender by percentage
+
+* Percentage of revenue by gender across age groups
+
+* Which of the delivery channels have the biggest revenue by percentage?
+
+* Reasons why customers return some of the items purchased?
+
+* Which Zone has the highest revenue
+  
+![image](https://github.com/user-attachments/assets/610313bf-8fdf-47f9-8a91-55134a622265)
+
+  
 
 ## Data Structure
-The dataset was obtained from the Data Entry officer of the supermarket. The dataset contains 113,000 rows and 18 columns of records of sales with fields like Order date, Order ID, Delivery date, Customer age, Gender, Delivery type, Product category, etc.
+The dataset was obtained from the supermarket's Data Entry officer. It contains 113,000 rows and 18 columns of sales records with fields like Order date, Order ID, Delivery date, Customer age, Gender, Delivery type, Product category, etc.
 
  ![Data structure Image](/https://github.com/Ms-khadijatOparemi/ONLINE-SALES-ANALYSIS-WITH-EXCEL/blob/main/Data%20structure.PNG "Raw Dataset))
 *Picture of raw dataset
@@ -101,21 +115,38 @@ The analysis of the dataset was done on Microsoft Excel using PivotTable.
 
 
 # Insights
-1. The mobile gadgets (phones and tablets) and Electronics product categories are more than twice the revenue from the other products.
-2. Most of the customers returned products because they were either defective or missing items/parts
-3. The revenue grew by 43% in the year 2020.
-4. Out of the total customers of 11300- 58,287 (52%) are male while 54,713 (48%) are female.
-5. The highest percentage of the sales by delivery was through standard delivery as most customers preferred it
-6. The highest percentage of revenue came from products bought by females between the ages 77 – 87
-7. Mobile phones had the highest sales under the phones and tablets category.
-8. Digital Cameras had the largest sales by revenue with a sum of 25,930,720 CHF which represents 24.3% of the total revenue.
-9. Zone 3 had the highest sales by revenue.
-10. The express delivery channel is the least patronized because it is the most expensive of the delivery channels.
+1. The mobile gadgets (phones and tablets) and Electronics product  categories are more than twice the revenue from the other products.
+   
+2. The revenue grew by 43% in the year 2020.
+   
+3. Mobile phones had the highest sales under the phones and tablets category.
+   
+4.  Digital Cameras had the largest sales by revenue with a sum of GHC 25,989,575 which represents 24.3% of the total revenue.
+   
+5.  While phones and tablets, and electronics categories drive more in total revenue, Fashion and, Health and Beauty are great for cash flow with the  individual order quantity surpassing that of Mobile tablet, and electronics categories combined
+
+6.  Out of the total customers of 11300- 58,287 (51.58%) are male while 54,713 (48.42%) are female.
+
+7.   The highest percentage of revenue (50.3%) came from products bought by males and females between the ages 17–34.
+
+8.   The highest percentage of the sales by delivery was through shipment from abroad followed closely by standard delivery.
+
+9.   Most of the customers returned products because they were either defective or missing items/parts.
+
+10.   Zone 3 had the highest sales by revenue followed by Zone 1 at GHC 46,172,529.95 and GHC  27,074,121.20 respectively.
+
+![image](https://github.com/user-attachments/assets/87683265-315d-4a12-94a9-e093c2f18a75)
+
+![image](https://github.com/user-attachments/assets/0ef92056-64b0-427b-8c0b-6124bcdd239a)
 
 
 # Recommendation
-1. The topmost reason why items were returned is because they were defective, hence the need to properly keep them in store and ensure that they are in good condition before delivery.
-2. Mobile phones and electronics should be the products of focus as they drive more sales and profit.
+1. The top reason why items were returned is because they were defective, hence the need to properly keep them in store and ensure that they are in good in transit up until delivery to the customer.
+
+2.  The express delivery channel is the least patronized; this could be a result of the cost of deliver.
+
+3. The Fashion, Health and Beauty Categories should be given high priority in stocking as they are fast-moving goods which are important for cashflow.
+
 
 
 
