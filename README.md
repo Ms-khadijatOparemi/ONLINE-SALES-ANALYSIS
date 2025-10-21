@@ -1,6 +1,9 @@
+# View Analysis in Power BI
+
+https://app.powerbi.com/groups/me/reports/769b40a9-ba7e-4d0f-9f6e-1f9fb3647460/ReportSection1620e76a9cdbb0edbcc8?experience=power-bi
+
+
 # Online Sales Analysis in Excel
-
-
 
 # Project Brief
 A supermarket (An Online store) that sells all varieties of items in different categories, from Fashion to Home and Office supplies. They have the dataset of their shopping over 5 years, from 2015 to 2020. The CEO wants to see how the supermarket is faring according to key performance indicators. We have been assigned to identify the key areas within the business that need clarification and get them sorted out as soon as possible. We are to analyze the sales dataset develop visualizations and  a report
